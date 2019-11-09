@@ -15,3 +15,7 @@
 
 ## execWebCrawaler.js
 - 这个文件是一个执行webCrawaler.js的爬虫类的示例程序
+
+## 注意：
+- 将数据写入数据库时，需要设定好数据库的编码，执行指令  
+ + ALTER DATABASE `database_name` CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci;
