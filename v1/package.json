@@ -1,0 +1,16 @@
+{
+  "name": "v1",
+  "version": "1.0.0",
+  "description": "- 这是一个简易爬虫程序的文件",
+  "main": "config.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
